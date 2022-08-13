@@ -1,5 +1,11 @@
 // Big thanks to jsthon for the initial work on this https://meta.discourse.org/u/jsthon/
 
+//Edits
+li.nav-item_subscribe {
+  color: var(--secondary);
+}
+//End edits
+
 @mixin box-shadow($value: 8px) {
   box-shadow: 0 1px $value rgba(black, 0.18);
 }
